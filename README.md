@@ -58,7 +58,7 @@
 ## :pushpin: **How to Launch App Locally** :- 
 
 *  clone this repo by typing this command in the terminal:  
-`git clone https://github.com/abeerghazal/BMS.git`
+`git clone https://github.com/dohaalnabeeh/BMS.git`
 
 *  Run `npm i` to install the packages for the app as general.
 
@@ -128,7 +128,7 @@ Note: You need to install our technologies like React and Node and so on...
 Dr.Ruba Salamah
 
 ## **Team Members** 👥 :- 
-1. [Abeer Ghazal](https://github.com/abeerghazal) University ID: 220190504
+1. [Doha Zeyad Alnabeeh](https://github.com/dohaalnabeeh) University ID: 220192063
 
 ## **Resources** :-
 
