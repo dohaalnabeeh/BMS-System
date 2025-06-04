@@ -50,7 +50,7 @@
 ## **Design** :recycle:
 
 [View Design](https://www.figma.com/design/4wyCkzIUAvSMcwpVkKeJ3i/BMS?node-id=0-1&node-type=canvas) <br />
-[View Documentation](https://docs.google.com/document/d/1aXlo1j7gs1-2OnGikyDRACQjDWBx8ujZe8uQtWl5oWg/edit?usp=sharing)
+[View Documentation](https://docs.google.com/document/d/1ub9lz2_8NUh2iBd5GoBeOCj01Rc65fX7VxaiDF52znc/edit?tab=t.0#heading=h.jb5dn7vuavml)
 
 
 ------------------------
@@ -128,7 +128,11 @@ Note: You need to install our technologies like React and Node and so on...
 Dr.Ruba Salamah
 
 ## **Team Members** 👥 :- 
-1. [Doha Zeyad Alnabeeh](https://github.com/dohaalnabeeh) University ID: 220192063
+1. [Doha Zeyad Alnabeeh] University ID: 220192063
+2. [Abeer Adel ghazal] University ID: 220190504
+3. [Lina Salama Turbanl]University ID: 220190598
+4. [Eman Mohammed Salha] University ID: 220192106
+
 
 ## **Resources** :-
 
